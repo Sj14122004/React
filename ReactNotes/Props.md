@@ -1,0 +1,1 @@
+Props make the component reusable
